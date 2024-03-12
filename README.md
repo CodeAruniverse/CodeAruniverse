@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source projects related to web development.
 - 📫 You can reach me via email at kumarun009@gmail.com or through my LinkedIn profile: https://www.linkedin.com/in/arun-moharana-790006280/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact:  I'm an avid stargazer and often spend nights observing celestial objects with my telescope.
 
 <!---
 CodeAruniverse/CodeAruniverse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
