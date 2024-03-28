@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodeAruniverse AKA Arun.
+- 👋 Hi, I’m Arun aka @CodeAruniverse.
 - 👀 I’m interested in coding, technologies.
 - 🌱 I’m currently learning backend technologies like microservices, spring boot, memory management, etc.
 - 💞️ I’m looking to collaborate on open-source projects related to web development.
